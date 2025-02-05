@@ -11,8 +11,8 @@
 - Telegram, Discord, Charmverse, Discourse, guild.xyz, Snapshot, etc.
 - All these platforms require registration and account configuration. 
 
-# Introducing Community Host, a welcoming & assistive agent
-- Like the concierge of a hotel, it’s always available to assist.
+# Introducing Community Host!
+- Like the concierge of a hotel, it’s a welcoming & assistive agent. 
 - Community Host recognizes and greets new members of a community.
 - It helps onboard new members, acting as a knowledgeable guide. 
 - The Host suggests actions to take such as registering for apps.
@@ -43,8 +43,10 @@
 - Base has strong dev tooling that simplifies blockchain + AI integrations.
 - Using Base templates & AgentKit instead of custom blockchain contracts.
 - Focus on chatbot & UX, not smart contract dev.
-- Deploy to a simple web UI (or Discord/Telegram bots) to meet criteria.
+- Deploy to a simple web UI to meet criteria.
 
 # Our Community Host can help you too
 - Feel free to pose questions on our [demo site](). 
-- Thanks for your attention! :pray:
+- Thanks for your attention!
+
+   :pray:
