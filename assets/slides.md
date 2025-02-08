@@ -38,7 +38,7 @@
 - Focus on chatbot & UX, not smart contract dev.
 - Deploy to a simple web UI to meet criteria.-->
 
-# Flow Diagram
+# Onboarding Flow Diagram
 [image]
 
 # Demo happens here [no slide]
@@ -53,7 +53,6 @@ We’re all members of the [Greenpill Dev Guild](https://t.me/gp_dev_guild/1).
 
 # Our Community Host can help you too
 - Feel free to pose questions on our demo site.
-- Visit [communityhost.world](communityhost.world)
-- Thanks for your attention!
-
-   :pray:
+  - Join the Discord server: [https://discord.gg/ZDVmxV2K](https://discord.gg/ZDVmxV2K)
+<!-- Visit [communityhost.world](communityhost.world)-->
+- Thanks for your attention :pray:
