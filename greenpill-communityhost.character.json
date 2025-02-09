@@ -1,7 +1,7 @@
 {
   "name": "Greenpill-CommunityHost",
   "clients": ["discord"],
-  "modelProvider": "grok",
+  "modelProvider": "venice",
   "settings": {
     "secrets": {
 	        "DISCORD_APPLICATION_TOKEN": "",
@@ -10,6 +10,11 @@
 	        "ELEVENLABS_XI_API_KEY": "",
 		"GROK_API_KEY": ""
 		"VENICE_API_KEY": ""	
+	        "VENICE_API_KEY": "sGTkcebaj4ty88NIioNtGWaP8NRP7C8ugHOknCeMjB",
+		"SMALL_VENICE_MODEL": "deepseek-r1-llama-70b",
+		"MEDIUM_VENICE_MODEL": "deepseek-r1-llama-70b",			
+		"LARGE_VENICE_MODEL": "deepseek-r1-llama-671b",
+		"IMAGE_VENICE_MODEL": "fluently-xl"
     },
     "voice": {
       "model": ""
