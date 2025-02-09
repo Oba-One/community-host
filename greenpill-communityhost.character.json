@@ -8,8 +8,9 @@
 	        "DISCORD_API_TOKEN": "",
 	        "DISCORD_VOICE_CHANNEL_ID": "",
 	        "ELEVENLABS_XI_API_KEY": "",
-		      "GROK_API_KEY": ""
-		    },
+		"GROK_API_KEY": ""
+		"VENICE_API_KEY": ""	
+    },
     "voice": {
       "model": ""
     }
