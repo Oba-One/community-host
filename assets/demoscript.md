@@ -1,4 +1,4 @@
-# Demo Script
+# Live Demo Script
 ```
 Scene: A DISCORD USER INTERFACE
 
